@@ -1,5 +1,7 @@
 /* seletor { propriedade: valor; } */
 
+<link rel="stylesheet" href="style.css" type="text/css"> 
+
 body {
     margin: 0;
     padding: 0;
